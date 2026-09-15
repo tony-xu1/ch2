@@ -20,7 +20,7 @@ public class Time {
 	
 	System.out.println("Seconds since midnight: " + secSinceMidnight);
 	System.out.println("Seconds till midnight: " + secTillMidnight);
-	System.out.println("Percent of day that has passed: " + percentOfDay);
+	System.out.println("Percent of day that has passed: " + percentOfDay + "%");
 	System.out.println("Time since starting: " + secSinceStart);
 	}
 }
